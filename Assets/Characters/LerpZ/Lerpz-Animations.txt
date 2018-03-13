@@ -1,0 +1,16 @@
+Lerpz Animations (names, start frame, end frame)
+walk, 1, 33
+run, 41, 57
+kick, 81, 97
+punch, 101, 117
+jump, 121, 129
+jumpfall, 149, 157
+idle, 201, 401
+gothit, 411, 419
+gothit2, 421, 429
+walljump, 431, 448
+deathfall, 451, 459
+jetpackjump, 149, 150
+ledgefall, 149, 150
+buttstomp, 137, 145
+jumpland, 161, 177
